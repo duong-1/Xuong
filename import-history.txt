@@ -1,0 +1,31 @@
+
+2024-08-23 20:23:41,Email FE: duongddph35171@fe.edu.vn - Lỗi: Email đã tồn tại
+2024-08-23 20:23:41,Email FPT: duongddph35171@fpt.edu.vn - Lỗi: Email đã tồn tại
+2024-08-23 20:23:41,Mã nhân viên: duongddph35171@fpt.edu.vn - Lỗi: Mã nhân viên đã tồn tại
+2024-08-23 20:23:41,Email FE: duongddph35171@fe.edu.vn - Lỗi: Email đã tồn tại
+2024-08-23 20:23:41,Email FPT: duongddph35171@fpt.edu.vn - Lỗi: Email đã tồn tại
+2024-08-23 20:23:41,Mã nhân viên: duongddph35171@fpt.edu.vn - Lỗi: Mã nhân viên đã tồn tại
+2024-08-23 20:23:41,Thêm thành công nhân viên: vunhph33506@fpt.edu.vn 
+2024-08-23 20:23:41,Thêm thành công nhân viên: vunhph33506@fpt.edu.vn 
+2024-08-23 20:23:41,Email FE: a@fe.edu.vn - Lỗi: Email đã tồn tại
+2024-08-23 20:23:41,Email FPT: a@fpt.edu.vn - Lỗi: Email đã tồn tại
+2024-08-23 20:23:41,Mã nhân viên: a@fpt.edu.vn - Lỗi: Mã nhân viên đã tồn tại
+2024-08-23 20:23:41,Email FE: a@fe.edu.vn - Lỗi: Email đã tồn tại
+2024-08-23 20:23:41,Email FPT: a@fpt.edu.vn - Lỗi: Email đã tồn tại
+2024-08-23 20:23:41,Mã nhân viên: a@fpt.edu.vn - Lỗi: Mã nhân viên đã tồn tại
+2024-08-23 20:23:41,Email FE: b@fe.edu.vn - Lỗi: Email đã tồn tại
+2024-08-23 20:23:41,Email FPT: b@fpt.edu.vn - Lỗi: Email đã tồn tại
+2024-08-23 20:23:41,Mã nhân viên: b@fpt.edu.vn - Lỗi: Mã nhân viên đã tồn tại
+2024-08-23 20:23:41,Email FE: b@fe.edu.vn - Lỗi: Email đã tồn tại
+2024-08-23 20:23:41,Email FPT: b@fpt.edu.vn - Lỗi: Email đã tồn tại
+2024-08-23 20:23:41,Mã nhân viên: b@fpt.edu.vn - Lỗi: Mã nhân viên đã tồn tại
+2024-08-23 20:42:52,Email FE: duongddph35171@fe.edu.vn - Lỗi: Email đã tồn tại
+2024-08-23 20:42:52,Email FPT: duongddph35171@fpt.edu.vn - Lỗi: Email đã tồn tại
+2024-08-23 20:42:52,Mã nhân viên: duongddph35171@fpt.edu.vn - Lỗi: Mã nhân viên đã tồn tại
+2024-08-23 20:42:53,Thêm thành công nhân viên: vunhph33506@fpt.edu.vn 
+2024-08-23 20:42:53,Email FE: a@fe.edu.vn - Lỗi: Email đã tồn tại
+2024-08-23 20:42:53,Email FPT: a@fpt.edu.vn - Lỗi: Email đã tồn tại
+2024-08-23 20:42:53,Mã nhân viên: a@fpt.edu.vn - Lỗi: Mã nhân viên đã tồn tại
+2024-08-23 20:42:53,Email FE: b@fe.edu.vn - Lỗi: Email đã tồn tại
+2024-08-23 20:42:53,Email FPT: b@fpt.edu.vn - Lỗi: Email đã tồn tại
+2024-08-23 20:42:53,Mã nhân viên: b@fpt.edu.vn - Lỗi: Mã nhân viên đã tồn tại

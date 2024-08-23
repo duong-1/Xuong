@@ -1,0 +1,25 @@
+excel:
+  prefix:
+    staffCode: PH33506
+    name: Do Dai Duong
+    accountFPT: duongddph35171@fpt.edu.vn
+    accountFE: duongddph35171@fe.edu.vn
+    contentType: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+    historyImport: import-history.txt
+app:
+  verify:
+    user: duong
+    type: 1
+    key: key_vnh
+
+spring:
+  datasource:
+    url: jdbc:sqlserver://localhost;encrypt=true;trustServerCertificate=true;databaseName=exam_distribution_test
+    username: sa
+    password: 123
+  jpa:
+    show-sql: true
+    hibernate:
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+      ddl-auto: none
